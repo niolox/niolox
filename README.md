@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @niolox
-- 👀 I’m interested in programming' outdoor activities, spirtual experiences
-- 🌱 I’m currently learning It science and business psychology
-- 💞️ I’m looking to collaborate on software hardware programming testing
-- 📫 How to reach me ? for example via TG @Serotonin221
+- 💞️ I’m looking to collaborate on software !
+and hardware, programming as well as testing
 - I love the endless possibilities of the AI and want to encourage people, institutions, politics, science and scientists, as well as artists and designers to discuss the usage of this field of intelligence.
 - I mainly use ChatGPT with the models GPT-4 and DALL-E, as well as I use app.leonardo.ai for visual inspiration and image generation
 - I create NFTs, they may be of visual, audio, text or mathemathical, semantic, text-based content. I love and admire the world of plants.- 
