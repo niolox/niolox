@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niolox
-- 💞️ I’m looking to collaborate on software !
+-I’m looking to collaborate on software !
 and hardware, programming as well as testing
 - I love the endless possibilities of the AI and want to encourage people, institutions, politics, science and scientists, as well as artists and designers to discuss the usage of this field of intelligence.
 - I mainly use ChatGPT with the models GPT-4 and DALL-E, as well as I use app.leonardo.ai for visual inspiration and image generation
